@@ -10,3 +10,4 @@ Includes readr/dplyr/ggplot/janitor packages, read_csv(), parse_*(), col_*(), pr
 Includes packages ggplot/tidyr/dplyr/readr, gather(), row_number(), separate(), unite(),  parse_number(), and spread()
 
 ### 4_Transform your data
+Includes packages dplyr/tidyr/forcats/lubridate/ggplot/stringr/readr, case_when(), drop_na(), pull(), and working with factors/dates/strings
